@@ -6,11 +6,11 @@ Repositório dedicado ao tp01 da disciplina arquitetura de computadores III da P
 
 * Ana Clara Lonczynski
 * Bruno Rafael Santos Oliveira
-* Izadora Galarza ...
+* Izadora Galarza Alves
 * Matheus Eduardo Campos Soares
 * Rayssa Mell de Souza Silva
 * Thiago Pereira de Oliveira
 
 ## Professores responsáveis
 
-* Lucas alguma coisa...
+* Lucas Bragança da Silva
