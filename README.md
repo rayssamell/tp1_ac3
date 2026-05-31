@@ -54,6 +54,12 @@ A validação foi feita através do testbench unificado `tb_7_all`. Utilizando o
 * O correto funcionamento de *Read/Write Hits* e *Misses*.
 * O funcionamento da política *Write-Back* salvando blocos alterados na memória externa antes de substituições.
 * Robustez em casos limite (extremos da memória) e comportamento seguro do reset assíncrono durante requisições pendentes.
+
+---
+# 💻 Dependências
+
+As dependências necessárias para rodas o projeto são *systemverilog* e *gtkwave*.
+
 ---
 ## 🐧 Instalação no Ubuntu / Linux
 
