@@ -14,3 +14,34 @@ Repositório dedicado ao tp01 da disciplina arquitetura de computadores III da P
 ## Professores responsáveis
 
 * Lucas Bragança da Silva
+
+---
+
+## 🐧 Instalação no Ubuntu / Linux
+
+```bash
+sudo apt update
+sudo apt install iverilog gtkwave
+```
+
+Verificar:
+
+```bash
+iverilog -V
+gtkwave --version
+```
+
+---
+
+## ▶️ Compilar e Executar
+
+```bash
+iverilog -g2012 -o cache_sim cache_def.sv dm_cache_data.sv dm_cache_tag.sv dm_cache_fsm.sv tb*.sv
+vvp cache_sim
+```
+
+Waveform:
+
+```bash
+gtkwave dump.vcd
+```
