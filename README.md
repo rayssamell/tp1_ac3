@@ -56,7 +56,7 @@ A validação foi feita através do testbench unificado `tb_7_all`. Utilizando o
 * Robustez em casos limite (extremos da memória) e comportamento seguro do reset assíncrono durante requisições pendentes.
 
 ---
-# 💻 Dependências
+## 💻 Dependências
 
 As dependências necessárias para rodas o projeto são *systemverilog* e *gtkwave*.
 
